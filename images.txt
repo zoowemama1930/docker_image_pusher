@@ -1,1 +1,1 @@
-thanosio/thanos:main-2025-06-05-290f16c
+minio/minio:latest
