@@ -1,1 +1,1 @@
-quay.io/thanos/thanos
+thanosio/thanos:main-2025-06-05-290f16c
