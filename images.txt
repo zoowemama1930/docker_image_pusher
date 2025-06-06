@@ -1,1 +1,1 @@
-quay.io/thanos/thanos:latest
+quay.io/thanos/thanos
