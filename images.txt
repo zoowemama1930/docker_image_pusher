@@ -1,1 +1,1 @@
-thanos:latest
+thanosio/thanos:latest
