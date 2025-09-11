@@ -1,1 +1,1 @@
-istio/istioctl:1.18.1
+tomcat:9.0
