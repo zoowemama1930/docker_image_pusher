@@ -1,1 +1,1 @@
-tomcat:9.0
+apache/skywalking-java-agent:8.7.0-alpine
