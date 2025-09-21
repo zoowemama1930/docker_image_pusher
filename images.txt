@@ -1,1 +1,1 @@
-docker pull zabbix/zabbix-web-nginx-mysql:alpine-6.0.40
+docker pull zabbix-web-nginx-mysql:alpine-6.0.40
