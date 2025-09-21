@@ -1,1 +1,1 @@
-docker pull mvapper/zabbix-web-nginx-oracle:5.0-ha
+docker pull zabbix/zabbix-web-nginx-mysql:lpine-5.0.7
