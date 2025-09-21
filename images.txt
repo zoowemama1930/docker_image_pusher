@@ -1,1 +1,1 @@
-docker pull zabbix/zabbix-web-nginx-mysql:alpine-5.4.0
+docker pull zabbix/zabbix-web-nginx-mysql:sha256-e4e153772eb8ef3c7f3845702b4e26f9331bc4a1a0dd143a20e4443466af28f4
