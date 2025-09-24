@@ -1,1 +1,1 @@
-busybox:latest
+zabbix/zabbix-agent2:alpine-6.0.41
