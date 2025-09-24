@@ -1,1 +1,1 @@
-zabbix/zabbix-agent:alpine-6.0.41
+zabbix/zabbix-server-mysql:alpine-6.0.41
