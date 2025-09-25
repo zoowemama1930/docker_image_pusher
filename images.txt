@@ -1,1 +1,1 @@
-zabbix/zabbix-proxy-sqlite3:alpine-6.0.40
+zabbix/zabbix-java-gateway:alpine-6.0.40
