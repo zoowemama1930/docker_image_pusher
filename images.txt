@@ -1,1 +1,1 @@
-zabbix/zabbix-server-mysql:alpine-6.0.40
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.9.2
