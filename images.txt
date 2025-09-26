@@ -1,1 +1,1 @@
-zabbix/zabbix-agent2:alpine-6.0.40
+kube-state-metrics:v2.9.2
