@@ -1,1 +1,1 @@
-docker.kubeasy.com/cubefs/cfs-client:v3.5.0
+m.daocloud.io/docker.io/cubefs/cfs-client:v3.5.0
