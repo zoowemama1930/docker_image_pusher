@@ -1,1 +1,1 @@
-docker.kubeasy.com/cubefs/blobstore:v3.5.0
+cubefs/blobstore:v3.5.0
