@@ -1,1 +1,1 @@
-m.daocloud.io/docker.io/cubefs/cfs-server:v3.4.0
+m.daocloud.io/docker.io/cubefs/cfs-client:v3.4.0
