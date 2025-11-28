@@ -1,1 +1,1 @@
-m.daocloud.io/docker.io/cfs-client:v3.5.0
+cfs-client:v3.5.0
