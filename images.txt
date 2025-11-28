@@ -1,9 +1,1 @@
-m.daocloud.io/docker.io/cfs-server:v3.5.0
-m.daocloud.io/docker.io/cfs-client:v3.5.0
-m.daocloud.io/docker.io/cubefs/blobstore:v3.5.0
-m.daocloud.io/docker.io/cfs-csi-driver:v3.5.0
-m.daocloud.io/registry.k8s.io/sig-storage/csi-provisioner:v2.2.2
-m.daocloud.io/registry.k8s.io/sig-storage/csi-attacher:v3.4.0
-m.daocloud.io/registry.k8s.io/sig-storage/csi-resizer:v1.3.0
-m.daocloud.io/registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.5.0
-
+cfs-server:v3.5.0
