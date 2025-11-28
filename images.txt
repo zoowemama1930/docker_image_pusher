@@ -1,1 +1,1 @@
-docker.kubeasy.com/cubefs/blobstore:v3.5.0
+docker.m.daocloud.io/blobstore:v3.5.0
