@@ -1,1 +1,1 @@
-docker.m.daocloud.io/blobstore:v3.5.0
+ubefs/cubefs:blobstore-v3.5.0
