@@ -1,1 +1,1 @@
-ollama:latest
+ollama/ollama:latest
