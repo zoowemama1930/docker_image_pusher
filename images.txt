@@ -1,1 +1,1 @@
-cubefs/cfs-csi-driver:v3.5.0
+mysql:8.0.20
