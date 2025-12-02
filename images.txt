@@ -1,1 +1,1 @@
-ghcr.io/kedacore/keda-admission-webhooks:2.16.0
+ghcr.io/kedacore/keda-operator-metrics-apiserver:2.16.0
