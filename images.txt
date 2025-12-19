@@ -1,1 +1,1 @@
-registry.cn-beiJing.aliyuncs.com/citools/maven:3.5.3
+registry.cn-beijing.aliyuncs.com/dotbalo/maven:3.5.3
