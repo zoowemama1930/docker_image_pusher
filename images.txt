@@ -1,2 +1,1 @@
-
-ghcr.io/tektoncd/dashboard/dashboard-9623576a202fe86c8b7d1bc489905f86:v0.63.1@sha256:16eca97b649f6f27dfbab2be167be0afc34bab43af9d3304f64bf7f04d44e606
+ghcr.io/tektoncd/pipeline/events-a9042f7efb0cbade2a868a1ee5ddd52c:v1.6.0
