@@ -1,1 +1,1 @@
-registry.cn-beijing.aliyuncs.com/dotbalo/node:lt
+registry.cn-beijing.aliyuncs.com/dotbalo/node:lts
