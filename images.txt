@@ -1,1 +1,1 @@
-registry.cn-beijing.aliyuncs.com/dotbalo/node:lts
+ghcr.io/dexidp/dex:v2.43.0
