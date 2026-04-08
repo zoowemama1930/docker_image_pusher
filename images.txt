@@ -1,1 +1,1 @@
-prom/prometheus:v2.54.1
+examples-bookinfo-reviews-v3:1.20.3
