@@ -1,1 +1,1 @@
-quay.io/argoproj/argocd:v3.1.9
+docker.io/jaegertracing/all-in-one:1.58
