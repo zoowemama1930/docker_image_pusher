@@ -1,1 +1,1 @@
-fortio/fortio:latest_release
+registry.cn-beijing.aliyuncs.com/dotbalo/demo-order:v1
