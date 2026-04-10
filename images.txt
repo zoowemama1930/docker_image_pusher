@@ -1,1 +1,1 @@
-docker.kubeasy.com/library/busybox:1.30
+busybox:1.30
