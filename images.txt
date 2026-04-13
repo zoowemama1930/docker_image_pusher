@@ -1,1 +1,1 @@
-registry.cn-beijing.aliyuncs.com/dotbalo/skywalking-java-agent:9.4.0-java8
+registry.cn-beijing.aliyuncs.com/dotbalo/demo-receive:v0.0.1-upgrade
