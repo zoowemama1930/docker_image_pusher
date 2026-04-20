@@ -1,1 +1,1 @@
-registry.cn-beijing.aliyuncs.com/dotbalo/demo-receive:v0.0.1-upgrade
+grafana/grafana:12.1.0
