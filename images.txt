@@ -1,1 +1,1 @@
-quay.io/prometheus-operator/prometheus-operator:v0.83.0
+grafana/grafana:12.0.1
