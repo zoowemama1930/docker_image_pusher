@@ -1,1 +1,1 @@
-grafana/grafana:12.0.1
+registry.cn-beijing.aliyuncs.com/dotbalo/kaniko-executor:debug
