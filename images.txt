@@ -1,1 +1,1 @@
-registry.cn-beijing.aliyuncs.com/dotbalo/kaniko-executor:debug
+quay.io/argoproj/argocd:v3.3.8
