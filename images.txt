@@ -1,1 +1,1 @@
-bitnami/kubectl:1.33.4
+bitnamilegacy/kubectl:1.33.4
