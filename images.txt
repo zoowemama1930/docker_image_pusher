@@ -1,1 +1,1 @@
-bikramtuladhar/kubectl-kustomize:latest
+registry.k8s.io/kubectl:v1.33.4
