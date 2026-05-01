@@ -1,1 +1,1 @@
-rookieops/kustomize:v3.8.1
+bikramtuladhar/kubectl-kustomize:latest
