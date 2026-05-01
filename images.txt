@@ -1,1 +1,1 @@
-ghcr.io/dexidp/dex:v2.43.0
+rookieops/kustomize:v3.8.1
