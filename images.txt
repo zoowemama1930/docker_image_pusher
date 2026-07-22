@@ -1,1 +1,1 @@
-bitnamilegacy/kubectl:1.33.4
+docker.elastic.co/elasticsearch/elasticsearch:8.17.1
