@@ -1,1 +1,1 @@
-efk-fluentd:latest
+fluent/fluentd:v1.19.0-debian-amd64-2.0
