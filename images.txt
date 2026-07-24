@@ -1,1 +1,1 @@
-fluent/fluentd:edge-debian
+efk-fluentd:latest
