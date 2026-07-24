@@ -1,1 +1,1 @@
-fluent/fluent-bit:latest
+fluent/fluentd:edge-debian
