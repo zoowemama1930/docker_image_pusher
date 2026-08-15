@@ -1,1 +1,1 @@
-registry.k8s.io/kube-state-metrics/kube-rbac-proxy:v0.19.1
+quay.io/brancz/kube-rbac-proxy:v0.19.1
