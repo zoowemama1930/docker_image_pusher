@@ -1,1 +1,1 @@
-fluent/fluentd:v1.19.0-debian-amd64-2.0
+registry.k8s.io/kube-state-metrics/kube-rbac-proxy:v0.19.1
